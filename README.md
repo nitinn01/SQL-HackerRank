@@ -1,4 +1,4 @@
-# SQL-HackerRank
+# SQL-HackerRank Gold Badge
 
 I earned the Gold Badge for SQL on HackerRank. It is an interactive platform to learn and expand your skillset while getting an opportunity to solve a variety of interesting challenges.
 
